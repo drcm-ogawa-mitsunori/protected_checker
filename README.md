@@ -1,0 +1,2 @@
+# protected_checker
+protected ブランチの突破ユーザー設定チェック用
